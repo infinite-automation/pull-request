@@ -10,3 +10,6 @@ jobs:
     steps:
       - name: run tests
         run: echo "Running tests..."
+        
+      - name: run linter
+        run: echo "Running linter..."
