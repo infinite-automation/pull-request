@@ -15,4 +15,4 @@ jobs:
         run: echo "Running linter..."
         
       - name: run build
-        run:  "Running build..."
+        run: echo "Running build..."
